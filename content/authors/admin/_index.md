@@ -116,7 +116,7 @@ social:
   - icon: cv
     icon_pack: ai
     # link: https://liuchihl.github.io/chihlunliu.github.io/uploads/resume.pdf
-    link: static/uploads/resume.pdf
+    link: uploads/resume.pdf
     # https://liuchihl.github.io/chihlunliu.github.io/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
