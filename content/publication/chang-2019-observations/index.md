@@ -14,4 +14,4 @@ publication_types:
 publication: '*Journal of Physical Oceanography*'
 doi: 'https://doi.org/10.1175/JPO-D-19-0035.1'
 ---
-publication_types: ['paper-journal']
+publication_types: ['paper-conference']
