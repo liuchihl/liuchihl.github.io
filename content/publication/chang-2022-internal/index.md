@@ -12,9 +12,10 @@ authors:
 - Takahiro Endoh
 - Eisuke Tsutsumi
 - Jia-Lin Chen
-- ' others'
 date: '2022-01-01'
 publishDate: '2023-12-24T20:27:50.139067Z'
 publication_types: [article-journal]
 publication: '*Journal of Physical Oceanography*'
+featured: true
+
 ---
