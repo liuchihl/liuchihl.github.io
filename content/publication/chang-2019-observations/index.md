@@ -15,3 +15,12 @@ publication: '*Journal of Physical Oceanography*'
 doi: 'https://doi.org/10.1175/JPO-D-19-0035.1'
 ---
 publication_types: ['paper-conference']
+
+url_pdf: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+<!-- url_video: 'https://youtube.com' -->
