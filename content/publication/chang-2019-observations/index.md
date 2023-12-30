@@ -1,6 +1,6 @@
 ---
 title: 'Observations of island wakes at high Rossby numbers: Evolution of submesoscale
-  vortices and free shear layers'
+  vortices and free shear layers (Journal of Physical Oceanography, 2019)'
 authors:
 - Ming-Huei Chang
 - Sen Jan
