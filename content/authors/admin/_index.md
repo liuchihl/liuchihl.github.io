@@ -41,7 +41,7 @@ education:
       year: 2019-2023
     - course: MSc in Physical Oceanography
       institution: National Taiwan University
-      year: 2017
+      year: 2015-2017
 
 
 # Skills
