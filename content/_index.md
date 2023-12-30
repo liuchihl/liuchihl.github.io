@@ -48,8 +48,10 @@ sections:
   #     text: ''
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #     username: admin
-  #   design:
-  #     columns: '1'
+    design:
+      columns: '1'
+      view: compact
+
   - block: experience
     id: experience
     content:
@@ -96,7 +98,7 @@ sections:
           company_url: 
           company_logo: 
           location: Chiayi, Taiwan
-          date_start: '2016-10-01'
+          date_start: '2017-10-01'
           date_end: '2018-10-01'
           description: Provide care for elderly retirees in a nursing home
         - title: Graduate Research Assistant
@@ -222,7 +224,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   # - block: collection
   #   content:
   #     title: Recent Publications
