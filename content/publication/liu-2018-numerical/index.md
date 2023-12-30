@@ -12,5 +12,7 @@ image:
   caption: 'Time variation of temperature near Green Island wake, east of Taiwan'
   focal_point: ''
   preview_only: false
+featured: true
+doi: 'https://doi.org/10.1029/2017JC013501'
 
 ---
