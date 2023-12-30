@@ -1,6 +1,6 @@
 ---
 title: The butterfly effect and the transition to turbulence in a stratified shear
-  layer
+  layer (Journal of Fluid Mechanics, 2022)
 authors:
 - Chih-Lun Liu
 - Alexis K Kaminski
