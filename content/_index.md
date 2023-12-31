@@ -72,7 +72,7 @@ sections:
           location: Irvine, USA
           date_start: '2024-02-01'
           date_end: '2026-02-01'
-          description: 'Internal Tide-Driven Mixing: Efficiency and Equilibrium Energy Pathways'
+          description: 'Project title: Internal Tide-Driven Mixing: Efficiency and Equilibrium Energy Pathways'
         - title: Fluid Dynamics of Sustainability and the Environment Summer School
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
           company_url: 'http://www.fdse.org/'
@@ -80,7 +80,7 @@ sections:
           location: Cambridge, UK
           date_start: '2023-09-03'
           date_end: '2023-09-15'
-          description: Two weeks of intense fluid dynamics-related lectures and laboratory experiments followed by a numerical project presentation
+          description: Two weeks of intense fluid dynamics-related lectures, and laboratory and numerical experiments followed by a numerical group project presentation
         - title: Graduate Research Assistant
           company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
           company_url: 'https://ceoas.oregonstate.edu/'
@@ -88,7 +88,7 @@ sections:
           location: Corvallis, USA
           date_start: '2019-09-01'
           date_end: '2023-11-30'
-          description: Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/)
+          description: 'Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/). The project includes studying the impact on shear instability and turbulence under three conditions: (1) altering the initial random noise (butterfly effect), (2) when a stratified shear layer is near a solid boundary, and (3) when a stratified shear layer is close to another shear layer.'
         - title: Faculty Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
@@ -249,16 +249,16 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
