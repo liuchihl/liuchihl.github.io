@@ -68,7 +68,7 @@ sections:
         - title: Postdoctoral Scholar
           company: Department of Earth System Science, University of California, Irvine
           company_url: 'https://www.ess.uci.edu/'
-          company_logo: 'media/ESS_blueyellow.png'
+          company_logo: 'ESS_blueyellow.svg'
           location: Irvine, USA
           date_start: '2024-02-01'
           date_end: '2026-02-01'
@@ -76,7 +76,7 @@ sections:
         - title: Fluid Dynamics of Sustainability and the Environment Summer School
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
           company_url: 'http://www.fdse.org/'
-          company_logo: 'media/cambridge.jpg'
+          company_logo: 'cambridge.svg'
           location: Cambridge, UK
           date_start: '2023-09-03'
           date_end: '2023-09-15'
@@ -84,7 +84,7 @@ sections:
         - title: Graduate Research Assistant
           company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
           company_url: 'https://ceoas.oregonstate.edu/'
-          company_logo: 'media/OSU.png'
+          company_logo: 'OSU.svg'
           location: Corvallis, USA
           date_start: '2019-09-01'
           date_end: '2023-11-30'
@@ -92,7 +92,7 @@ sections:
         - title: Faculty Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
-          company_logo: 'media/IONTU.png'
+          company_logo: 'IONTU.svg'
           location: Taipei, Taiwan
           date_start: '2018-10-01'
           date_end: '2019-09-01'
@@ -112,7 +112,7 @@ sections:
         - title: Graduate Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
-          company_logo: 'uploads/IONTU.png'
+          company_logo: 'IONTU.svg'
           location: Taipei, Taiwan
           date_start: '2015-09-01'
           date_end: '2017-08-11'
