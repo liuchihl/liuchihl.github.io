@@ -68,7 +68,7 @@ sections:
         - title: Postdoctoral Scholar
           company: Department of Earth System Science, University of California, Irvine
           company_url: 'https://www.ess.uci.edu/'
-          company_logo: 'ESS_blueyellow.png'
+          company_logo: 'ESS_blueyellow'
           location: Irvine, USA
           date_start: '2024-02-01'
           date_end: '2026-02-01'
@@ -76,7 +76,7 @@ sections:
         - title: Fluid Dynamics of Sustainability and the Environment Summer School
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
           company_url: 'http://www.fdse.org/'
-          company_logo: 'cambridge.jpg'
+          company_logo: 'cambridge'
           location: Cambridge, UK
           date_start: '2023-09-03'
           date_end: '2023-09-15'
@@ -84,7 +84,7 @@ sections:
         - title: Graduate Research Assistant
           company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
           company_url: 'https://ceoas.oregonstate.edu/'
-          company_logo: 'OSU.png'
+          company_logo: 'OSU'
           location: Corvallis, USA
           date_start: '2019-09-01'
           date_end: '2023-11-30'
@@ -92,7 +92,7 @@ sections:
         - title: Faculty Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
-          company_logo: 'IONTU.png'
+          company_logo: 'IONTU'
           location: Taipei, Taiwan
           date_start: '2018-10-01'
           date_end: '2019-09-01'
@@ -112,12 +112,14 @@ sections:
         - title: Graduate Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
-          company_logo: 'IONTU.png'
+          company_logo: 'IONTU'
           location: Taipei, Taiwan
           date_start: '2015-09-01'
           date_end: '2017-08-11'
           description:  I was in [Ming-Huei Chang's](https://minghueichang.wixsite.com/smallocean) group. My project was about island wake modeling but I was also heavily involved in field observations (participating 8 research cruises in the Phillipine Sea and South China Sea)     
-
+    design:
+      columns: '2'
+      view: compact
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
