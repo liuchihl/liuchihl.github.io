@@ -68,7 +68,7 @@ sections:
         - title: Postdoctoral Scholar
           company: Department of Earth System Science, University of California, Irvine
           company_url: 'https://www.ess.uci.edu/'
-          company_logo: 'ESS_blueyellow'
+          company_logo: 'UCI'
           location: Irvine, USA
           date_start: '2024-02-01'
           date_end: '2026-02-01'
