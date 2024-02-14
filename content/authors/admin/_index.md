@@ -122,8 +122,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I will start as a postdoctoral scholar in the Department of Earth System Science at University of California, Irvine in Feb 2024. My research interests involve stratified shear instability's role in ocean mixing. I am also interested in flow-topography interactions, such as island wakes and flow over ocean ridges. Using numerical simulations and theories, I aim to understand the complex dynamics of ocean mixing and its impact on the Earth system.
+I am a postdoctoral scholar in the Department of Earth System Science at University of California, Irvine. My research interests involve stratified shear instability's role in ocean mixing. I am also interested in flow-topography interactions, such as island wakes and flow over ocean ridges. Using numerical simulations and theories, I aim to understand the complex dynamics of ocean mixing and its impact on the Earth system.
 
-I recently completed my PhD at Oregon State University, working with [Bill Smyth](https://blogs.oregonstate.edu/salty/) on Kelvin-Helmholtz Turbulence in Complex Environments. 
+I have completed my PhD at Oregon State University in 2023, working with [Bill Smyth](https://blogs.oregonstate.edu/salty/) on Kelvin-Helmholtz Turbulence in Complex Environments. 
 
 {style="text-align: justify;"}
