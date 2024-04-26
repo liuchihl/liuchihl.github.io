@@ -1,5 +1,5 @@
 ---
-title: Turbulence and Mixing from Neighbouring Stratified Shear Layers (Journal of Fluid Mechanics, in press)
+title: Turbulence and Mixing from Neighbouring Stratified Shear Layers (Journal of Fluid Mechanics, accepted)
 authors:
 - Chih-Lun Liu
 - Alexis K Kaminski
