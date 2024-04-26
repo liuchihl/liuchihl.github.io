@@ -32,6 +32,7 @@ interests:
   - Ocean Mixing
   - Stratified Shear Flows
   - Flow-topography Interactions
+  - Internal Waves
 
 # Education to show in About widget
 education:
