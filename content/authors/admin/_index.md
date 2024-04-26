@@ -122,7 +122,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral scholar in the Department of Earth System Science at University of California, Irvine. My research interests involve stratified shear instability's role in ocean mixing. I am also interested in flow-topography interactions, such as internal tide-driven mixing at ocean bottom, island wakes and flow over ocean ridges. My research aims to address the questions, 'how does turbulence occur in densely-stratified flows? How efficient does mixing occur to homogenize different layers of fluids? What are the effects of turbulent mixing on larger-scale processes? Using numerical simulations and theories, I aim to understand the complex dynamics of ocean mixing and its impact on the Earth systems.
+I am a postdoctoral scholar in the Department of Earth System Science at University of California, Irvine. My research interests involve stratified shear instability's role in ocean mixing. I am also interested in flow-topography interactions, such as internal tide-driven mixing at ocean bottom, island wakes and flow over ocean ridges. My research aims to address the questions, 'how does turbulence occur in densely-stratified flows? How efficient does mixing occur to homogenize different layers of fluids? What are the effects of turbulent mixing on larger-scale processes?' Using numerical simulations and theories, I aim to understand the complex dynamics of ocean mixing and its impact on the Earth systems.
 
 I have completed my PhD at Oregon State University in 2023, working with [Bill Smyth](https://blogs.oregonstate.edu/salty/) on Kelvin-Helmholtz Turbulence in Complex Environments. 
 
