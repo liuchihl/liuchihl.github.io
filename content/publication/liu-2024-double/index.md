@@ -1,16 +1,16 @@
 ---
-title: Turbulence and Mixing from Neighbouring Stratified Shear Layers (Journal of Fluid Mechanics, accepted)
+title: Turbulence and Mixing from Neighbouring Stratified Shear Layers (Journal of Fluid Mechanics, 2024)
 authors:
 - Chih-Lun Liu
 - Alexis K Kaminski
 - William D Smyth
-date: '2024-06-01'
-publishDate: ''
+date: '2024-05-13'
+publishDate: '2024-05-13T20:27:50.145368Z'
 publication_types:
 - article-journal
 publication: '*Journal of Fluid Mechanics*'
 featured: true
-doi: 
+doi: https://doi.org/10.1017/jfm.2024.387
 url_pdf: '' 
-abstract: 'Studies of Kelvin–Helmholtz (KH) instability have typically modelled the initial flow as an isolated shear layer. In geophysical cases, however, the instability often occurs near boundaries and may therefore be influenced by boundary proximity effects. Ensembles of direct numerical simulations are conducted to understand the effect of boundary proximity on the evolution of the instability and the resulting turbulence. Ensemble averages are used to reduce sensitivity to small variations in initial conditions. Both the transition to turbulence and the resulting turbulent mixing are modified when the shear layer is near a boundary: the time scales for the onset of instability and turbulence are longer, and the height of the KH billow is reduced. Subharmonic instability is suppressed by the boundary because phase lock is prevented due to the diverging phase speeds of the KH and subharmonic modes. In addition, the disruptive influence of three-dimensional secondary instabilities on pairing is more profound as the two events coincide more closely. When the shear layer is far from the boundary, the shear-aligned convective instability is dominant; however, secondary central-core instability takes over when the shear layer is close to the boundary, providing an alternate route for the transition to turbulence. Both the efficiency of the resulting mixing and the turbulent diffusivity are dramatically reduced by boundary proximity effects.'
+abstract: Studies of Kelvin–Helmholtz (KH) instability have typically modelled the initial mean flow as an isolated stratified shear layer. However, geophysical flows frequently exhibit multiple layers. As a step towards understanding these flows, we examine the case of two adjacent stratified shear layers using both linear stability analysis and direct numerical simulations. With sufficiently large layer separation, the characteristics of instability and mixing converge towards the familiar KH turbulence, and similarly when the separation is near zero and the layers add to make a single layer, albeit with a reduced Richardson number. Here, our focus is on intermediate separations, which produce new and complex phenomena. As the separation distance  𝐷 increases from zero to a critical value  𝐷𝑐, approximately half the thickness of the shear  layer, the growth rate and wavenumber both decrease monotonically. The minimum Richardson number is relatively low, potentially inducing pairing, and shear-aligned convective instability (SCI) is the primary mechanism for transition. Consequently, mixing is relatively strong and efficient. When  𝐷∼𝐷𝑐, billow length is increased but growth is slowed. Despite the modest growth rate, mixing is strong and efficient, engendered primarily by secondary shear instability manifested on the braids, and by SCI occurring on the eyelids. Shear-aligned vortices are driven in part by buoyancy production; however, shear production and vortex stretching are equally important mechanisms. When  𝐷>𝐷𝑐, neighbouring billow interactions suppress the growth of both KH instability and SCI. Strength and efficiency of mixing decrease abruptly as 𝐷𝑐 is exceeded. As turbulence decays, layers of marginal instability may arise.
 ---
