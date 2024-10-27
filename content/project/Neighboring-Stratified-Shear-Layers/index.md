@@ -1,11 +1,7 @@
 ---
 title: Turbulence and Mixing from Neighboring Stratified Turbulence
-summary: |
-  - Investigated the interactions between neighboring stratified shear layers found in thermohaline density staircases and those associated with internal wave breaking. The study aimed to understand the mutual influence of closely spaced shear layers, as they are rarely isolated in natural settings. Results indicated a non-monotonic dependence on separation distance, with significant changes observed when the distance approximates half the shear layer thickness. This behavior is influenced by the dominance of two distinct modes, contingent on the separation distance. Proximity of layers led to reduced growth rates of primary and secondary instabilities, as well as diminished turbulent mixing, similar to the effects of a nearby solid boundary.
-  
-  - Enhanced analytical capabilities through the derivation of mathematical theories, improved numerical proficiency by customizing FORTRAN code, and refined coding skills through postprocessing and organizing DNS outputs using MATLAB.
-  
-  - Developed strong critical thinking and problem-solving abilities, alongside effective communication skills, by participating in conferences and publishing research in Journal of Fluid Mechanics.
+summary: 
+  Investigated the interactions between neighboring stratified shear layers found in thermohaline density staircases and those associated with internal wave breaking. The study aimed to understand the mutual influence of closely spaced shear layers, as they are rarely isolated in natural settings. Results indicated a non-monotonic dependence on separation distance, with significant changes observed when the distance approximates half the shear layer thickness. This behavior is influenced by the dominance of two distinct modes, contingent on the separation distance. Proximity of layers led to reduced growth rates of primary and secondary instabilities, as well as diminished turbulent mixing, similar to the effects of a nearby solid boundary.
 
 tags:
   - Neighboring stratified shear layer

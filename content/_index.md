@@ -79,6 +79,8 @@ sections:
 
             - Strengthening Julia programming skills by contributing to Oceananigans.jl through source code debugging, developing a customized internal tide simulation (including postprocessing functions), and actively engaging with software developers.
             
+            - Extensively utilized high-performance computing and optimized resource allocation.
+
             - Enhancing data analysis and visualization skills.
 
         - title: Fluid Dynamics of Sustainability and the Environment Summer School
@@ -88,7 +90,12 @@ sections:
           location: Cambridge, UK
           date_start: '2023-09-03'
           date_end: '2023-09-15'
-          description: Two weeks of intense fluid dynamics-related lectures, and laboratory and numerical experiments followed by a numerical group project presentation. 
+          description: |
+            -Participated in an intensive two-week program focused on cutting-edge theories and applications in fluid dynamics.
+
+            -Enhanced technical, communication and collaboration skills through hands-on computational and laboratory experiments.
+
+            -Built valuable professional connections by engaging with talented peers and leading experts.
         - title: Graduate Research Assistant
           company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
           company_url: 'https://ceoas.oregonstate.edu/'
@@ -96,7 +103,15 @@ sections:
           location: Corvallis, USA
           date_start: '2019-09-01'
           date_end: '2023-11-30'
-          description: 'Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/). The project includes studying the impact on shear instability and turbulence under three conditions: (1) altering the initial random noise (butterfly effect), (2) when a stratified shear layer is near a solid boundary, and (3) when a stratified shear layer is close to another shear layer.'
+          description: |
+            '-Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/). The project includes studying the impact on shear instability and turbulence under three conditions: (1) altering the initial random noise (butterfly effect), (2) when a stratified shear layer is near a solid boundary, and (3) when a stratified shear layer is close to another shear layer. (checkout my [project](https://liuchihl.github.io/#projects) for more detail!)
+            
+            - Enhanced analytical capabilities through the derivation of mathematical theories, improved numerical proficiency by customizing FORTRAN code, and refined coding skills through postprocessing and organizing DNS outputs using MATLAB.
+            
+            - Extensively utilized high-performance computing and optimized resource allocation.
+
+            - Developed strong critical thinking and problem-solving abilities, alongside effective communication skills, by participating in conferences and publishing research in Journal of Fluid Mechanics.'
+
         - title: Faculty Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
@@ -106,9 +121,9 @@ sections:
           date_end: '2019-09-01'
           description: |2-
           
-            * Involved in the project titled "Development of Shipwreck Drifting and Oil Pollution Forecasting Technology" with the Central Weather Bureau, employing a 3D nested model for analysis.
+            * Developed a 3D nested model using MITgcm to simulate oil spill pollution, improving predictive capabilities for environmental impact assessments and response strategies for the Central Weather Bureau, Taiwan.
 
-            * Utilized a 2D model to investigate the interactions between the Kuroshio current and the I-Lan Ridge, situated east of Taiwan. Moreover, took part in a research cruise dedicated to measuring turbulence.          
+            * Leveraged MATLAB programming skills and modeling skills to develop a 2D simulation analyzing interactions between the Kuroshio current and the I-Lan Ridge, east of Taiwan. This work collabrates with observational team in optimizing field data collection strategies and interpretation during an oceanic research cruise focused on measuring turbulence.
         - title: Substitute Military Service (Obligatory Service)
           company: 
           company_url: 
@@ -116,7 +131,11 @@ sections:
           location: Chiayi, Taiwan
           date_start: '2017-10-01'
           date_end: '2018-10-01'
-          description: Provide care for elderly retirees in a nursing home
+          description: |
+            -Delivered care to elderly residents in a nursing home.
+
+            -Enhanced soft skills such as communication, adaptability, time management, and teamwork.
+
         - title: Graduate Research Assistant
           company: Institute of Oceanography, National Taiwan University
           company_url: 'http://www.oc.ntu.edu.tw/oceng/'
@@ -124,9 +143,12 @@ sections:
           location: Taipei, Taiwan
           date_start: '2015-09-01'
           date_end: '2017-08-11'
-          description:  I was in [Ming-Huei Chang's](https://minghueichang.wixsite.com/smallocean) group. My project was about island wake modeling but I was also heavily involved in field observations (participating 8 research cruises in the Phillipine Sea and South China Sea)     
+          description: |
+            -Collaborated with [Ming-Huei Chang](https://minghueichang.wixsite.com/smallocean) on advanced island wake modeling projects.
+            -Conducted in-depth analysis of the Kuroshio current using numerical simulations and field observations, providing actionable insights into oceanographic dynamics.
+            -Participated in research cruises to collect and analyze ocean hydrology and dynamics data, enhancing data-driven decision-making processes.
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   # - block: accomplishments
   #   content:
