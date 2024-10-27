@@ -93,11 +93,11 @@ sections:
           date_end: '2023-09-15'
           description: |2-
             
-            *Participated in an intensive two-week program focused on cutting-edge theories and applications in fluid dynamics.
+            * Participated in an intensive two-week program focused on cutting-edge theories and applications in fluid dynamics.
 
-            *Enhanced technical, communication and collaboration skills through hands-on computational and laboratory experiments.
+            * Enhanced technical, communication and collaboration skills through hands-on computational and laboratory experiments.
 
-            -Built valuable professional connections by engaging with talented peers and leading experts.
+            * Built valuable professional connections by engaging with talented peers and leading experts.
         - title: Graduate Research Assistant
           company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
           company_url: 'https://ceoas.oregonstate.edu/'
@@ -107,7 +107,7 @@ sections:
           date_end: '2023-11-30'
           description: |2-
             
-            * Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/). The project includes studying the impact on shear instability and turbulence under three conditions: (1) altering the initial random noise (butterfly effect), (2) when a stratified shear layer is near a solid boundary, and (3) when a stratified shear layer is close to another shear layer. (checkout my [project](https://liuchihl.github.io/#projects) for more detail!)
+            * Under the supervision of [Bill Smyth](https://blogs.oregonstate.edu/salty/) and collaboration with [Alexis Kaminski](https://akkaminski.github.io/). [Projects](https://liuchihl.github.io/#projects) includes studying the impact on shear instability and turbulence under three conditions: (1) altering the initial random noise (butterfly effect), (2) when a stratified shear layer is near a solid boundary, and (3) when a stratified shear layer is close to another shear layer.
             
             * Enhanced analytical capabilities through the derivation of mathematical theories, improved numerical proficiency by customizing FORTRAN code, and refined coding skills through postprocessing and organizing DNS outputs using MATLAB.
             
@@ -136,9 +136,9 @@ sections:
           date_end: '2018-10-01'
           description: |2-
 
-            *Delivered care to elderly residents in a nursing home.
+            * Delivered care to elderly residents in a nursing home.
 
-            *Enhanced soft skills such as communication, adaptability, time management, and teamwork.
+            * Enhanced soft skills such as communication, adaptability, time management, and teamwork.
 
         - title: Graduate Research Assistant
           company: Institute of Oceanography, National Taiwan University
@@ -149,11 +149,11 @@ sections:
           date_end: '2017-08-11'
           description: |2-
 
-            *Collaborated with [Ming-Huei Chang](https://minghueichang.wixsite.com/smallocean) on advanced island wake modeling projects.
+            * Collaborated with [Ming-Huei Chang](https://minghueichang.wixsite.com/smallocean) on advanced island wake modeling projects.
 
-            *Conducted in-depth analysis of the Kuroshio current using numerical simulations and field observations, providing actionable insights into oceanographic dynamics.
+            * Conducted in-depth analysis of the Kuroshio current using numerical simulations and field observations, providing actionable insights into oceanographic dynamics.
 
-            *Participated in research cruises to collect and analyze ocean hydrology and dynamics data, enhancing data-driven decision-making processes.
+            * Participated in research cruises to collect and analyze ocean hydrology and dynamics data, enhancing data-driven decision-making processes.
     design:
       columns: '1'
       view: compact
