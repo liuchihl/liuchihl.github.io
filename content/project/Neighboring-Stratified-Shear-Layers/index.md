@@ -1,7 +1,7 @@
 ---
 title: Turbulence and Mixing from Neighboring Stratified Turbulence
 summary: 
-  Investigated the interactions between neighboring stratified shear layers found in thermohaline density staircases and those associated with internal wave breaking. The study aimed to understand the mutual influence of closely spaced shear layers, as they are rarely isolated in natural settings. Results indicated a non-monotonic dependence on separation distance, with significant changes observed when the distance approximates half the shear layer thickness. This behavior is influenced by the dominance of two distinct modes, contingent on the separation distance. Proximity of layers led to reduced growth rates of primary and secondary instabilities, as well as diminished turbulent mixing, similar to the effects of a nearby solid boundary.
+  Investigated the interactions between neighboring stratified shear layers found in thermohaline density staircases and those associated with internal wave breaking. The study aimed to understand the mutual influence of closely spaced shear layers, as they are rarely isolated in natural settings. Results indicated a non-monotonic dependence on separation distance, with significant changes observed when the distance approximates half the shear layer thickness. This behavior is influenced by the dominance of two distinct modes, contingent on the separation distance. Proximity of layers led to reduced growth rates of primary and secondary instabilities, as well as diminished turbulent mixing, similar to the effects of a nearby solid boundary (left figure). 
 
 tags:
   - Neighboring stratified shear layer
