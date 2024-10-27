@@ -2,7 +2,7 @@
 title: The effects of boundary proximity on Kelvin-Helmholtz instability and turbulence 
 summary: 
   Kelvin-Helmholtz (KH) turbulence is a prevalent mechanism for generating turbulence in nature. Previous research on KH instability has often overlooked boundary effects. However, in geophysical flows, significant turbulent mixing occurs near boundaries, where shear instability frequently arises. My objective is to explore how boundary proximity influences KH instability and turbulent mixing through direct numerical simulation. Using theories and simulations, our findings indicate that boundary effects suppress both vortex pairing (a key mechanism for efficient mixing) and secondary convective instability, leading to reduced quantity and efficiency of turbulent mixing. 
-
+weight: 3
 
 tags:
   - Boundary effect
