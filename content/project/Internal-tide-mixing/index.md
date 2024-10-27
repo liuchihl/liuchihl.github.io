@@ -6,7 +6,7 @@ tags:
 date: ''
 external_link: ''
 featured:
-  image: "featured.gif"  # Path to your image
+  image: "project/Internal-tide-mixing/internal-tide-mixing.gif"  # Path to your image
   caption: "Horizontal cross section at height 1300 m above the deepest point, showing zonal velocity, kinetic energy dissipation rate, and buoyancy variance dissipation rate. Turbulence occurs near boundaries."
 ---
 <!-- <div style="text-align: center;">
