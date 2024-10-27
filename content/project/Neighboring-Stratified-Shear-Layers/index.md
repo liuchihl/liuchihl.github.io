@@ -1,8 +1,11 @@
 ---
 title: Turbulence and Mixing from Neighboring Stratified Turbulence
-summary: 
-- Neighboring stratified shear layers are found in thermohaline density staircases and layers associated with breaking of internal waves. Our objective is to understand how one stratified shear layer affects another in close proximity, as shear layers in nature are rarely isolated from nearby instabilities or turbulent events. We found that the results depend non-monotonically on the separation distance, where an abrupt change could be found when the separation distance is similar to the half shear layer thickness. This is largely determined by the dominance of two existing modes, which depends on the separation distance between two shear layers. When the layers are close, the growth rates of primary and secondary instabilities, as well as the resulting turbulent mixing, are greatly reduced, akin to the effect of a nearby solid boundary.
-- This project strengthened my analytical abilities through the derivation of mathematical theories, enhanced my numerical skills through modifications to a FORTRAN code, and refined my coding expertise by postprocessing and organizing DNS output with MATLAB. Tackling this complex fluid dynamics problem required strong independent thinking and problem-solving skills.
+summary: |
+  - Investigated the interactions between neighboring stratified shear layers found in thermohaline density staircases and those associated with internal wave breaking. The study aimed to understand the mutual influence of closely spaced shear layers, as they are rarely isolated in natural settings. Results indicated a non-monotonic dependence on separation distance, with significant changes observed when the distance approximates half the shear layer thickness. This behavior is influenced by the dominance of two distinct modes, contingent on the separation distance. Proximity of layers led to reduced growth rates of primary and secondary instabilities, as well as diminished turbulent mixing, similar to the effects of a nearby solid boundary.
+  
+  - Enhanced analytical capabilities through the derivation of mathematical theories, improved numerical proficiency by customizing FORTRAN code, and refined coding skills through postprocessing and organizing DNS outputs using MATLAB.
+  
+  - Developed strong critical thinking and problem-solving abilities, alongside effective communication skills, by participating in conferences and publishing research in Journal of Fluid Mechanics.
 
 tags:
   - Neighboring stratified shear layer
