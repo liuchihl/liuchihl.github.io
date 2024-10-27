@@ -1,16 +1,18 @@
 ---
-title: Internal Tide-Driven Mixing and Energy Pathways at Rough Seafloor Topography
-summary: Turbulent mixing is a crucial process in ocean dynamics, impacting both stratification and circulation. One significant aspect of this mixing is the internal tide-driven mixing that occurs at rough topography. Our research focuses on understanding the energy pathways of the barotropic M2 tide as it interacts with a gently sloping, rough seafloor. The sloping seafloor promotes restratification, which balances with fluid homogenization due to tidal-driven mixing, allowing a non-transient flow development. A large eddy simulation is used with realistic topography based on the Brazil Basin in the South Atlantic Ocean. The energy of the internal tide is transferred to smaller-scale internal waves, which radiate into the interior of the ocean. Eventually, these internal waves break down into patches of turbulence, driven by either shear instability or convective instability. The resulting mixing near the topography generates an upslope mean flow in the bottom boundary layer and an downslope flow above.
+title: Turbulence and Mixing from Neighboring Stratified Turbulence
+summary: 
+- Neighboring stratified shear layers are found in thermohaline density staircases and layers associated with breaking of internal waves. Our objective is to understand how one stratified shear layer affects another in close proximity, as shear layers in nature are rarely isolated from nearby instabilities or turbulent events. We found that the results depend non-monotonically on the separation distance, where an abrupt change could be found when the separation distance is similar to the half shear layer thickness. This is largely determined by the dominance of two existing modes, which depends on the separation distance between two shear layers. When the layers are close, the growth rates of primary and secondary instabilities, as well as the resulting turbulent mixing, are greatly reduced, akin to the effect of a nearby solid boundary.
+- This project strengthened my analytical abilities through the derivation of mathematical theories, enhanced my numerical skills through modifications to a FORTRAN code, and refined my coding expertise by postprocessing and organizing DNS output with MATLAB. Tackling this complex fluid dynamics problem required strong independent thinking and problem-solving skills.
 
 tags:
-  - Internal Tide Mixing
+  - Neighboring stratified shear layer
 date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Horizontal cross section at height 1300 m above the deepest point, showing zonal velocity, kinetic energy dissipation rate, and buoyancy variance dissipation rate. Turbulence occurs near boundaries. 
+  caption: 
   focal_point: Smart
 
 # links:

@@ -72,7 +72,9 @@ sections:
           location: Irvine, USA
           date_start: '2024-02-01'
           date_end: '2026-02-01'
-          description: 'This role aims to understand the primary steady energy pathway from barotropic tides to the internal wave continuum, ultimately to small-scale irreversible mixing. It also involves developing a parameterization method that accounts for the spatial variation of internal wave breaking efficiency and irreversible mixing efficiency.'
+          description: 
+          - 'Understand the primary steady energy pathway from barotropic tides to the internal wave continuum, ultimately to small-scale irreversible mixing. Additionally, understand the mechanism of upslope mean flow due to tidally-driven mixing. It also involves developing a parameterization method that accounts for the spatial variation of internal wave breaking efficiency and irreversible mixing efficiency.'
+          - 'Strengthened Julia programming skills by contributing to Oceananigans.jl through source code debugging, developing a customized internal tide simulation (including postprocessing functions), and actively engaging with software developers. Further enhanced data analysis and visualization skills.' 
         - title: Fluid Dynamics of Sustainability and the Environment Summer School
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
           company_url: 'http://www.fdse.org/'
