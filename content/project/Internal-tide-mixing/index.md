@@ -10,6 +10,6 @@ image:
   focal_point: Smart
 ---
 <div style="text-align: center;">
-  <img src="featured.gif" alt="Horizontal cross section at height 1300 m above the deepest point, showing zonal velocity, kinetic energy dissipation rate, and buoyancy variance dissipation rate. Turbulence occurs near boundaries." />
-  <p>Caption for the GIF</p>
+  <img src="internal-tide-mixing.gif" alt="" />
+  <p>Horizontal cross section at height 1300 m above the deepest point, showing zonal velocity, kinetic energy dissipation rate, and buoyancy variance dissipation rate. Turbulence occurs near boundaries.</p>
 </div>
