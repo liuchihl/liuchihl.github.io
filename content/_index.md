@@ -72,9 +72,7 @@ sections:
           location: Irvine, USA
           date_start: '2024-02-01'
           date_end: '2026-02-01'
-          description: 
-          - Understand the primary steady energy pathway from barotropic tides to the internal wave continuum, ultimately to small-scale irreversible mixing. Additionally, understand the mechanism of upslope mean flow due to tidally-driven mixing. It also involves developing a parameterization method that accounts for the spatial variation of internal wave breaking efficiency and irreversible mixing efficiency.
-          - Strengthened Julia programming skills by contributing to Oceananigans.jl through source code debugging, developing a customized internal tide simulation (including postprocessing functions), and actively engaging with software developers. Further enhanced data analysis and visualization skills.
+          description: Understand the primary steady energy pathway from barotropic tides to the internal wave continuum, ultimately to small-scale irreversible mixing. Additionally, understand the mechanism of upslope mean flow due to tidally-driven mixing. It also involves developing a parameterization method that accounts for the spatial variation of internal wave breaking efficiency and irreversible mixing efficiency. Strengthened Julia programming skills by contributing to Oceananigans.jl through source code debugging, developing a customized internal tide simulation (including postprocessing functions), and actively engaging with software developers. Further enhanced data analysis and visualization skills.
         - title: Fluid Dynamics of Sustainability and the Environment Summer School
           company: Department of Applied Mathematics and Theoretical Physics, University of Cambridge
           company_url: 'http://www.fdse.org/'
@@ -82,7 +80,7 @@ sections:
           location: Cambridge, UK
           date_start: '2023-09-03'
           date_end: '2023-09-15'
-          description: Two weeks of intense fluid dynamics-related lectures, and laboratory and numerical experiments followed by a numerical group project presentation
+          description: Two weeks of intense fluid dynamics-related lectures, and laboratory and numerical experiments followed by a numerical group project presentation. 
         - title: Graduate Research Assistant
           company: College of Earth, Ocean, and Atmospheric Sciences, Oregon State University
           company_url: 'https://ceoas.oregonstate.edu/'
