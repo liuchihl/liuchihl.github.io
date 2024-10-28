@@ -155,7 +155,7 @@ sections:
 
             * Participated in research cruises to collect and analyze ocean hydrology and dynamics data, enhancing data-driven decision-making processes.
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   # - block: accomplishments
   #   content:
@@ -270,8 +270,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
-      view: compact
+      columns: '2'
+      view: list
   # - block: collection
   #   content:
   #     title: Recent Publications
