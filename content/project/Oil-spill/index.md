@@ -2,11 +2,6 @@
 title: Oil Spill Modeling and Strategies
 summary: Driven by the 1994 oil spill in the Philippine Sea, visible in SAR imagery, this project focuses on understanding and predicting oceanic oil spills. We implemented a 3D nested model utilizing open boundary conditions from [HYCOM](https://www.hycom.org/) velocity and temperature fields, and incorporated modulation by the barotropic tide with data from [OSU TPXO](https://www.tpxo.net/). A passive tracer was released from the southern boundary, where [marine traffic](https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4) is most concentrated. Results indicate that the oil spill remained trapped for over 10 hours near Green Island due to island wakes creating reverse flow downstream, aligning with historical incidents where oil was found on the northern shores. The long-term goal is to develop an interface that automatically collects HYCOM and tidal data for specific times and locations, enabling high-resolution simulations to predict future or analyze past oil spill events. This project aims to provide cutting-edge solutions for industry challenges in environmental monitoring and disaster response.
 
-
-
-
-
-
 weight: 7
 
 tags:
