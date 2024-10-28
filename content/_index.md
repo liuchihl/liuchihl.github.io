@@ -270,8 +270,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: showcase
+      columns: '1'
+      view: compact
   # - block: collection
   #   content:
   #     title: Recent Publications
