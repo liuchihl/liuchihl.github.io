@@ -1,11 +1,11 @@
 ---
-title: Steady Flow Stratified Island Wakes   
-summary: Island wakes develop when flow encounters a blunt body in geophysical settings. Inspired by satellite imagery and field observations, I employed MITgcm to simulate the wakes downstream of Green Island (about 5 km in diameter) east of Taiwan, achieving patterns and periods aligned with field data. Our study revealed that (i) the wakes display sequentially detached recirculation cells with cold water upwelling, moving downstream; (ii) the island wakes resemble a von Kármán vortex street, influenced by inertial and barotropic instabilities; (iii) the hotspot of turbulent mixing is located where horizontal shear is most pronounced. Due to the island-shelf effect and vertical vorticity tilting, lateral shear partially converts to vertical shear, leading to turbulent diapycnal mixing. Compared to a circular cylinder, the conical shape of the realistic island generates more turbulence in the wake region, evident by overturned colder water. This was my first research project, greatly enhancing my modeling skills and theoretical understanding of oceanography.
+title: Dynamics of Stratified Island Wakes in Steady Flow
+summary: Island wakes develop when flow encounters a blunt body in geophysical settings. Inspired by satellite imagery and field observations, I employed MITgcm to simulate the wakes downstream of Green Island (about 5 km in diameter) east of Taiwan, achieving patterns and periods aligned with field data. Our study revealed that (i) the wakes display sequentially detached recirculation cells with cold water upwelling, moving downstream; (ii) the island wakes resemble a von Kármán vortex street, influenced by inertial and barotropic instabilities; (iii) the hotspot of turbulent mixing is located where horizontal shear is most pronounced. Due to the island-shelf effect and vertical vorticity tilting, lateral shear partially converts to vertical shear, leading to turbulent diapycnal mixing. Compared to a circular cylinder, the conical shape of the realistic island generates more turbulence in the wake region, evident by overturned colder water.
 
 weight: 8
 
 tags:
-  - Flow-ridge interaction
+  - Island wake
 date: ''
 
 # Optional external URL for project (replaces project detail page).
