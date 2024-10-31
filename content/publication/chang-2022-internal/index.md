@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Internal hydraulic transition and turbulent mixing observed in the Kuroshio
   over the I-Lan ridge off Northeastern Taiwan (Journal of Physical Oceanography, 2022)
 authors:
@@ -20,4 +20,4 @@ featured: true
 weight: 4
 url_pdf: 'publication/chang-2022-internal/internal.pdf'
 doi: 'https://doi.org/10.1175/JPO-D-21-0245.1'
----
+--- -->

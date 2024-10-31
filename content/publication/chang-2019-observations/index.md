@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Observations of island wakes at high Rossby numbers: Evolution of submesoscale
   vortices and free shear layers (Journal of Physical Oceanography, 2019)'
 authors:
@@ -31,4 +31,4 @@ url_pdf: 'publication/chang-2019-observations/IslandWake.pdf'
 # url_slides: ''
 # url_source: ''
 # url_video: ''
----
+--- -->

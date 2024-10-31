@@ -11,7 +11,7 @@ last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,71 +29,75 @@ bio: My name is Chih-Lun
 
 # Interests to show in About widget
 interests:
-  - "{{< icon name=\"fas fa-computer\" >}} Ocean Mixing"
-  - "{{< icon name=\"fas fa-bars-staggered\" >}} Stratified Shear Flows"
-  - "{{< icon name=\"fas fa-mountain\" >}} Flow-topography Interactions"
-  - "{{< icon name=\"fas fa-wave\" >}} Internal Waves"
-  - "{{< icon name=\"fas fa-computer\" >}} Data Science"
+  - Ocean Mixing
+  - Stratified Shear Flows
+  - Flow-topography Interactions
+  - Internal Waves
+  - Data Science
   
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Earth, Ocean, Atmospheric Sciences
-      institution: Oregon State University
+      institution: 'Oregon State University (Advisor: [Bill Smyth](https://blogs.oregonstate.edu/salty/))'
       year: 2019-2023
     - course: MSc in Physical Oceanography
-      institution: National Taiwan University
+      institution: 'National Taiwan University (Advisor: [Ming-Huei Chang](https://minghueichang.wixsite.com/smallocean))'
       year: 2015-2017
 
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: python
-#         icon_pack: fab
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: database
-#         icon_pack: fas
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-hiking
-#         icon_pack: fas
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#         icon_pack: fas
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera-retro
-#         icon_pack: fas
+skills:
+  - name: Technical
+    items:
+      - name: Julia
+        description: 'I use Julia for the bulk of my postdoctoral research, including debugging ocean model source code, data analysis, and data visualization'
+        # percent: 80
+        # icon: python
+        # icon_pack: fab
+      - name: MATLAB
+        description: 'I have 10+ years of experience in MATALB, including various projects and data analysis'
+        # percent: 100
+        # icon: chart-line
+        # icon_pack: fas
+      - name: Python
+        description: ''
+        percent: 40
+        # icon: database
+        # icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        # description: ''
+        # percent: 60
+        # icon: person-hiking
+        # icon_pack: fas
+      - name: Piano
+        # description: ''
+        # percent: 100
+        # icon: cat
+        # icon_pack: fas
+      - name: Workout
+        description: ''
+        # percent: 80
+        # icon: camera-retro
+        # icon_pack: fas
+      - name: Podcast
+        description: ''
+        # percent: 80
+        # icon: camera-retro
+        # icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:chihlunl@gmail.com
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:chihlunl@gmail.com
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -115,10 +119,10 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    # link: https://liuchihl.github.io/chihlunliu.github.io/uploads/resume.pdf
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   # link: https://liuchihl.github.io/chihlunliu.github.io/uploads/resume.pdf
+  #   link: uploads/resume.pdf
     # https://liuchihl.github.io/chihlunliu.github.io/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
@@ -126,6 +130,7 @@ highlight_name: true
 ---
 I am a postdoctoral scholar in the Department of Earth System Science at University of California, Irvine. 
 My research interests involve stratified shear instability's role in ocean mixing. I am also interested in flow-topography interactions, such as internal tide-driven mixing at ocean bottom, island wakes and flow over ocean ridges. My research aims to address the questions, 'how does turbulence occur in densely-stratified flows? How efficient does mixing occur to homogenize different layers of fluids? What are the effects of turbulent mixing on larger-scale processes?' Using numerical simulations and theories, I aim to understand the complex dynamics of ocean mixing and its impact on the Earth systems.
+
 I have completed my PhD at Oregon State University in 2023, working with [Bill Smyth](https://blogs.oregonstate.edu/salty/) on Kelvin-Helmholtz turbulence in complex environments. 
 Feel free to explore my projects and publications to learn more about my work and contributions to the field.
 
