@@ -30,11 +30,11 @@ bio: My name is Chih-Lun
 # Interests to show in About widget
 interests:
   - "{{< icon name=\"fas fa-computer\" >}} Ocean Mixing"
-  - "{{< icon name=\"fat fa-bars-staggered\" >}} Stratified Shear Flows"
-  - "{{< icon name=\"fas fa-regular fa-mountain\">}} Flow-topography Interactions"
-  - "{{< icon name=\"fa-regular fa-wave\">}} Internal Waves"
-  - "{{< icon name=\"fa-solid fa-computer\"}} Data Science"
-
+  - "{{< icon name=\"fas fa-bars-staggered\" >}} Stratified Shear Flows"
+  - "{{< icon name=\"fas fa-mountain\" >}} Flow-topography Interactions"
+  - "{{< icon name=\"fas fa-wave\" >}} Internal Waves"
+  - "{{< icon name=\"fas fa-computer\" >}} Data Science"
+  
 # Education to show in About widget
 education:
   courses:
