@@ -78,7 +78,7 @@ sections:
 
             * Developing a parameterization method for spatial variation of internal wave breaking efficiency and irreversible mixing efficiency.
 
-            * Strengthening Julia programming skills by contributing to Oceananigans.jl through source code debugging, developing a customized internal tide simulation (including postprocessing functions), and actively engaging with software developers.
+            * Strengthening [Julia programming](https://julialang.org/) skills by contributing to [Oceananigans.jl](https://clima.github.io/OceananigansDocumentation/stable/) through source code debugging, developing a customized internal tide simulation (including postprocessing functions), and actively engaging with software developers.
             
             * Extensively utilized high-performance computing and optimized resource allocation.
 
@@ -124,7 +124,7 @@ sections:
           date_end: '2019-09-01'
           description: |2-
           
-            * Developed a 3D nested model using MITgcm to simulate oil spill pollution, improving predictive capabilities for environmental impact assessments and response strategies for the Central Weather Bureau, Taiwan.
+            * Developed a 3D nested model using [MITgcm](https://mitgcm.org/public/docs.html) to simulate oil spill pollution, improving predictive capabilities for environmental impact assessments and response strategies for the Central Weather Bureau, Taiwan.
 
             * Leveraged MATLAB programming skills and modeling skills to develop a 2D simulation analyzing interactions between the Kuroshio current and the I-Lan Ridge, east of Taiwan. This work collabrates with observational team in optimizing field data collection strategies and interpretation during an oceanic research cruise focused on measuring turbulence.
         - title: Substitute Military Service (Obligatory Service)

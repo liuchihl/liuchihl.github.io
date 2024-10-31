@@ -6,7 +6,7 @@ authors:
 date: '2018-06-01'
 publishDate: '2018-06-01T20:27:50.123659Z'
 publication_types:
-- article-journal
+[article-journal]
 publication: '*Journal of Geophysical Research: Oceans*'
 featured: true
 weight: 5
