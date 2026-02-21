@@ -6,7 +6,10 @@ env:
 on:
   # Standalone trigger for PR validation
   pull_request:
-    branches: ['main']
+        # Reduce parallelism to avoid warpc memory crashes on GitHub Actions runners.
+        HUGO_NUMWORKERMULTIPLIER: '0.5'
+        GOMAXPROCS: '2'
+        GOMEMLIMIT: '2GiB'
   # Reusable workflow trigger - called by deploy.yml
   workflow_call:
     outputs:
@@ -117,7 +120,7 @@ jobs:
         HUGO_ENVIRONMENT: production
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
         # Reduce parallelism to avoid warpc memory crashes on GitHub Actions runners.
-        HUGO_NUMWORKERMULTIPLIER: '1'
+        HUGO_NUMWORKERMULTIPLIER: '0.5'
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify
