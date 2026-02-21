@@ -290,6 +290,14 @@ hugoblox:
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
 
+  # ──────────────────────────────────────────────────────────────────────────
+  # FEATURES
+  # Site feature toggles
+  # ──────────────────────────────────────────────────────────────────────────
+  features:
+    # Disable Shiki (WASM) highlighting to reduce CI memory usage.
+    shiki_highlighting: false
+
 # ────────────────────────────────────────────────────────────────────────────
 # FEATURES
 # Site feature toggles
