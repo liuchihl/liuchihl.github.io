@@ -116,6 +116,8 @@ jobs:
       env:
         HUGO_ENVIRONMENT: production
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
+        # Reduce parallelism to avoid warpc memory crashes on GitHub Actions runners.
+        HUGO_NUMWORKERMULTIPLIER: '1'
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify
