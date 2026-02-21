@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.156.0'
+  WC_HUGO_VERSION: '0.134.3'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -48,6 +48,10 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
+          # Reduce parallelism to avoid warpc memory crashes on GitHub Actions runners.
+          HUGO_NUMWORKERMULTIPLIER: '0.5'
+          GOMAXPROCS: '2'
+          GOMEMLIMIT: '2GiB'
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
