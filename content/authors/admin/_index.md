@@ -17,32 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Scholar
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Earth System Science, University of California, Irvine
-    url: https://www.ess.uci.edu/
+  - name: Institute of Applied Mechanics, National Taiwan University
+    url: https://www.iam.ntu.edu.tw/zh/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My name is Chih-Lun
 
 # Interests to show in About widget
 interests:
+  - Stratified Turbulence
+  - Hydrodynamic Instabilities
   - Ocean Mixing
-  - Stratified Shear Flows
-  - Flow-topography Interactions
   - Internal Waves
-  - Data Science
+  - Environmental and Geophysical Fluid Dynamics
   
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Earth, Ocean, Atmospheric Sciences
-      institution: 'Oregon State University (Advisor: [Bill Smyth](https://blogs.oregonstate.edu/salty/))'
+      institution: 'Oregon State University'
       year: 2019-2023
     - course: MSc in Physical Oceanography
-      institution: 'National Taiwan University (Advisor: [Ming-Huei Chang](https://minghueichang.wixsite.com/smallocean))'
+      institution: 'National Taiwan University'
       year: 2015-2017
 
 
@@ -128,10 +128,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral scholar in the Department of Earth System Science at University of California, Irvine. 
-My research interests involve stratified shear instability's role in ocean mixing. I am also interested in flow-topography interactions, such as internal tide-driven mixing at ocean bottom, island wakes and flow over ocean ridges. My research aims to address the questions, 'how does turbulence occur in densely-stratified flows? How efficient does mixing occur to homogenize different layers of fluids? What are the effects of turbulent mixing on larger-scale processes?' Using numerical simulations and theories, I aim to understand the complex dynamics of ocean mixing and its impact on the Earth systems.
+Dr. Chih-Lun Liu is an Assistant Professor in the Institute of Applied Mechanics at National Taiwan University. His research focuses on stratified flows, hydrodynamic instabilities, turbulence, internal waves, environmental and geophysical fluid dynamics, and the development of ocean modeling frameworks. He has extensive experience applying a wide range of fluid dynamics and ocean modeling codes to address complex fluid mechanical problems. 
 
-I have completed my PhD at Oregon State University in 2023, working with [Bill Smyth](https://blogs.oregonstate.edu/salty/) on Kelvin-Helmholtz turbulence in complex environments. 
+He earned his Ph.D. from the College of Earth, Ocean, and Atmospheric Sciences at Oregon State University in 2023, working with [Bill Smyth](https://blogs.oregonstate.edu/salty/) on Kelvin-Helmholtz turbulence in complex environments, followed by
+postdoctoral research at the Department of Earth Systems Sciences, University of California, Irvine (2024–2026).  
+
+I am seeking motivated students who are interested in environmental and geophysical fluid dynamics, computational models or turbulence. 
 Feel free to explore my projects and publications to learn more about my work and contributions to the field.
 
 
