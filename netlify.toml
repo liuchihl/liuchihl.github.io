@@ -36,12 +36,6 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-<<<<<<< HEAD
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-=======
   command = """
     set -e
     echo "=== Deploy Preview Build ==="
@@ -60,7 +54,6 @@
     hugo --gc --minify -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
     pnpm run pagefind
   """
->>>>>>> upstream/main
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
